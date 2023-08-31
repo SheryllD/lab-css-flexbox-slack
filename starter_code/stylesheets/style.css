@@ -8,3 +8,46 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+html {
+  margin: -10px;
+  padding: 0px;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #540b51;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #540b51;
+}
+nav,
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #540b51;
+}
+header h1 {
+  color: aliceblue;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.email-btn {
+  width: 95vw;
+}
+
+.google-btm img;
